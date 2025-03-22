@@ -14,9 +14,9 @@ scale= MaxAbsScaler().fit(arquivo[1])
 y = np.ravel(scale.transform(arquivo[1]))
 
 
-iteracoes = 400
+iteracoes = 1000
 
-regr = MLPRegressor(hidden_layer_sizes=(15,5),
+regr = MLPRegressor(hidden_layer_sizes=(15,8),
                     max_iter=iteracoes,
                     activation='tanh', #{'identity', 'logistic', 'tanh', 'relu'},
                     solver='adam', #{‘lbfgs’, ‘sgd’, ‘adam’}

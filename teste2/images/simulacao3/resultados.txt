@@ -1,0 +1,2 @@
+Média do erro final para arquitetura (15, 10, 5): 0.0006310997964263453
+Desvio padrão do erro final para arquitetura (15, 10, 5): 0.0001893371281485954

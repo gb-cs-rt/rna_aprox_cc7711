@@ -1,0 +1,2 @@
+Média do erro final para arquitetura (128, 64, 32, 16, 8): 0.012035539262598056
+Desvio padrão do erro final para arquitetura (128, 64, 32, 16, 8): 0.006719916083016292

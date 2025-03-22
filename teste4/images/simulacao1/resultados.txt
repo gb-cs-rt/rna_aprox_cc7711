@@ -1,0 +1,2 @@
+Média do erro final para arquitetura (32,): 0.020072382162495288
+Desvio padrão do erro final para arquitetura (32,): 0.021490076701682445
